@@ -1,4 +1,4 @@
-// This program adds two numbers and prints their sum.
+'// This program adds two numbers and prints their sum.
 #include <iostream>
  
 int main()
