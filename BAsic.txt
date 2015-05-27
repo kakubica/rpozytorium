@@ -1,0 +1,5 @@
+10 PRINT "Witaj"
+20 INPUT "Liczba gwiazdek do wyœwietlenia: "; ile
+30 PRINT "*"
+40 LET ile = ile -1
+50 IF ile > 0 THEN GOTO 30
