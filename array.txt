@@ -75,4 +75,5 @@ void report()
     cout << "Pay for the week: " << wage[i] * hours[i];
     cout << '\n';
   }
+
 }
