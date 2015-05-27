@@ -1,4 +1,4 @@
-// File:   ~ftp/pub/class/cplusplus/Inheritance/MulInhert.cpp
+'// File:   ~ftp/pub/class/cplusplus/Inheritance/MulInhert.cpp
 // Purpose: An example of multiple base classes.
 
 #include <iostream>

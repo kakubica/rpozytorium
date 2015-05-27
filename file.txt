@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
       break;
     }
   }
-  finout.close();
+  finout.close();'
 
   if(!finout.good()) {
     cout << "A file error occurred.";
