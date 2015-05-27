@@ -1,4 +1,4 @@
-// Author:   Herbert Schildt
+'// Author:   Herbert Schildt
 // Modified: Qiang Hu
 // File name: ~ftp/pub/class/cplusplus/Array/Array4.cpp
 // Purpose:  A simple employee database program.
