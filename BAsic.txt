@@ -1,4 +1,4 @@
-10 PRINT "Witaj"
+'10 PRINT "Witaj"
 20 INPUT "Liczba gwiazdek do wyœwietlenia: "; ile
 30 PRINT "*"
 40 LET ile = ile -1
