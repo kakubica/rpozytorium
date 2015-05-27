@@ -1,4 +1,4 @@
-'class Emulator:
+''class Emulator:
  
     def __call__(self, x):
         print u"Ten Emulator wywo³ano jako funkcjê z parametrem x =", x

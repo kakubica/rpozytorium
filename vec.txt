@@ -1,4 +1,4 @@
-'
+''
 // Demonstrating the generic find algorithm with a vector
 
 #include <iostream>

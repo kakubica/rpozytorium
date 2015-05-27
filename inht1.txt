@@ -1,4 +1,4 @@
-'// File:    ~ftp/pub/class/cplusplus/Inheritance/BaseConst.cpp
+''// File:    ~ftp/pub/class/cplusplus/Inheritance/BaseConst.cpp
 // Purpose: demonstrate how to call base class's constructor
 
 #include <iostream>

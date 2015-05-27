@@ -1,4 +1,4 @@
-'// File name: ~ftp/pub/class/cplusplus/Pointer/PointerSimple.cpp
+''// File name: ~ftp/pub/class/cplusplus/Pointer/PointerSimple.cpp
 // Purpose:   A simple program demonstrating the use of pointers.
 
 #include <iostream>

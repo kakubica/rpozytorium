@@ -1,4 +1,4 @@
-'// File Name: ~ftp/pub/class/cplusplus/Structure/StrucSimple.cpp
+''// File Name: ~ftp/pub/class/cplusplus/Structure/StrucSimple.cpp
 // Purpose:   Demonstrates the use of structure in C++.
 //            Stores some personal data in a structure, then prints
 //            the info out.
